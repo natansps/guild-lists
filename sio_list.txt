@@ -51,6 +51,7 @@ Brujo De Catemaco
 Bugs Bunny
 Caman
 Canserbero
+Captain
 Cariani Down
 Carlos Manzo
 Casi Abuela
@@ -422,7 +423,6 @@ Vingador
 Viper Demonic
 Viper Edited
 Vipersito
-Visky No
 Vnzla-city
 Volcky
 Warrior Death
