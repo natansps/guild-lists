@@ -5,7 +5,6 @@ Acab
 Aczino
 Adls
 Aeonpulse
-Aetherwave
 Akangasha
 Alejitoz
 Alejo Blue
@@ -230,6 +229,7 @@ Linguisinha
 Lolo Delas
 Lord
 Lord Desquiciado
+Lord Juan
 Lord Skullcrusher
 Lord Spirit
 Lord Valthrak
@@ -261,6 +261,7 @@ Matador De Vanguard
 Mataleon
 Mcdonalds
 Medasyo
+Meguimin
 Meliodas Corporation
 Meliodas Retired
 Meliodasx
