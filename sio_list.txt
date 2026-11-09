@@ -190,6 +190,7 @@ Marolo Atomico
 Marranitho Ek
 Mastah
 Master Loucoo
+Mastereq
 Mata Puercos
 Matador De Vanguard
 Mcdonalds
@@ -273,6 +274,7 @@ Sir Yes
 Smash Burguer
 Sodiacka
 Solsticio De Verao
+Sopraneq
 Sorcerer Alone
 Sorcerer Manipulator
 Sorczim
