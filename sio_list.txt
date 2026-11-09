@@ -5,6 +5,7 @@ Aetherwave
 Akangasha
 Alejo Blue
 Ali Al-bulaihi
+Alice Doceira
 Alien
 Alien Exitado
 Alienigena
@@ -12,6 +13,7 @@ Alta Lacra Del Mojon
 Anck-su-namun
 Angel
 Apollo Once
+Arcanjo Horus
 Assilant
 Astronauta
 Athenas
@@ -33,6 +35,7 @@ Bold On
 Bomberman Legend
 Boneco Louco
 Brad Rp
+Break
 Brollex
 Brujo De Catemaco
 Bugs Bunny
@@ -53,6 +56,7 @@ Copperfield
 Cornodois
 Crayzoll
 Cris Lowe
+Cristal Horus
 Culeiro
 Dark Wicho
 Darth Blade
@@ -60,7 +64,9 @@ Dass Dass
 Dead Wolf
 Destroyer Old
 Diabolical
+Diivo Horus
 Dios
+Disparador Horus
 Doctor
 Domino
 Domino Edited
@@ -213,6 +219,7 @@ Oldek
 Oneshot Flam
 Pai do Guiziino
 Pai Veio Bebadoo
+Pais Das Maravilhas
 Pajaroo
 Pala Baloso
 Pally Do Kaos
@@ -281,6 +288,7 @@ Thalim Do Jacare
 The Blacklist
 The Vasco Pro
 Thepowerguido
+Thigs Leader
 Thorvik
 Thorvik Ulra
 Thotth Al Hazed
