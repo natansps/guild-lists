@@ -263,6 +263,7 @@ Reptiliano
 Rhagnuss
 Right Side
 Riin
+Riivotril
 Roletaa
 Royal Dusk
 Royal Sallu
@@ -296,6 +297,7 @@ Sucuri
 Supremos Grinch
 Susukc
 Tank Abbott
+Tank Horus
 Tansito Terror
 Tazmania
 Ted Avillar
