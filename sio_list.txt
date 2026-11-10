@@ -310,6 +310,7 @@ Sucuri
 Supremos Grinch
 Susukc
 Tank Abbott
+Tank Commander
 Tank Horus
 Tansito Terror
 Tazmania
@@ -350,8 +351,6 @@ Valente Pingo
 Ventonegro
 Vexor
 Vingador
-Viper Demonic
-Viper Edited
 Vnzla-city
 Wariatka
 Wherko Fivethree
