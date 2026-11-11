@@ -76,6 +76,7 @@ Diivo Horus
 Dios
 Disparador Horus
 Doctor
+Dominant Megazzor
 Domino
 Domino Edited
 Don Chukitho
@@ -173,6 +174,8 @@ Keto
 Kidmeon
 Kiing Chukitho
 Kiko-kiko
+Kiko-ms
+Kikoek
 King Armagedon
 King Caracas
 King Heal
