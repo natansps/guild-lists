@@ -356,6 +356,7 @@ Susukc
 Tank Abbott
 Tank Commander
 Tank Horus
+Tansito Dominador
 Tansito Terror
 Tazmania
 Ted Avillar
