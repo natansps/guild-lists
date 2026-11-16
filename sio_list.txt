@@ -25,6 +25,7 @@ Avi Apollo
 Azul Maria
 Baianinha Do Leo
 Banana Sniper
+Baro Ironbolt
 Bearz Loira
 Bebe Sorrindo
 Bellaa
@@ -384,6 +385,7 @@ Susukc
 Tank Abbott
 Tank Commander
 Tank Horus
+Tanny
 Tansito Dominador
 Tansito Terror
 Tazmania
