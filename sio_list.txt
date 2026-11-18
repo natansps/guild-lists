@@ -215,7 +215,6 @@ Kikoek
 King Armagedon
 King Caracas
 King Heal
-King Mts
 King Nano
 King Spirits
 Knight Do Role
@@ -240,7 +239,6 @@ Lord Spirit
 Lord Valthrak
 Los Del Bohio
 Luanzerah
-Lucas Paladino
 Lurran Lowe
 Lurran Lower
 Lynuux
