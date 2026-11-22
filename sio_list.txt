@@ -3,6 +3,7 @@ Acab
 Aczino
 Aeonpulse
 Aetherwave
+Aileri
 Akangasha
 Alejitoz
 Alejo Blue
@@ -201,7 +202,6 @@ Jowz
 Jowz Edit
 Jv Ms
 Jymps
-Jymps Di Bellaa
 Kaissara Loko
 Kamikaze
 Kamikaze Vi
@@ -368,6 +368,7 @@ Semefo
 Senpai
 Shade Armagedon
 Shadow Of Inferno
+Shoot
 Siemano Soprano
 Sijan Tophh
 Simpa Tia
