@@ -1,8 +1,6 @@
 Abarrotes Camacho
 Acab
-Aczino
 Aeonpulse
-Aetherwave
 Aguiar Lindao
 Aileri
 Akangasha
@@ -18,7 +16,6 @@ Anestesia
 Apollo Once
 Arcanist Healer
 Arcanjo Horus
-Assilant
 Aura Max
 Avi Apollo
 Azul Maria
@@ -48,7 +45,6 @@ Brad Rp
 Brasileiro
 Break
 Brollex
-Brujo De Catemaco
 Brutos
 Bruxo
 Bugs Bunny
@@ -148,7 +144,6 @@ Flam Dtona
 Focokrispis
 Foragido Da Rota
 Formulaa
-Francheskita
 Free Style
 Freyr
 Fui Achado No Lixo
@@ -408,7 +403,6 @@ The Heal
 The Sandman
 The Vasco Pro
 Thigs Leader
-Thorvick
 Thorvik Ulra
 Thotth Al Hazed
 Thotthzed
