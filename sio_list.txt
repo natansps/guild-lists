@@ -233,6 +233,7 @@ Medasyo
 Meguimin
 Meliodas Billionaire
 Meliodas Retired
+Melrow
 Menina
 Mequetref
 Merlim Storm
@@ -379,7 +380,6 @@ Thalim De Parafal
 Thalim Do Jacare
 Thaus
 The Blacklist
-The Dekor
 The Heal
 The Sandman
 The Vasco Pro
